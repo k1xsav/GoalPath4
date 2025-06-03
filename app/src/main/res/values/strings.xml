@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoalPath</string>
+    <string name="add_goal">Добавить цель</string>
+    <string name="goal_description">Описание цели</string>
+    <string name="goal_title">Название цели</string>
+    <string name="save_goal">Сохранить цель</string>
+    <string name="hint_goal_description">Введите описание цели</string>
+    <string name="hint_goal_title">Введите название цели</string>
+    <string name="e">Заголовок</string> <!-- Название цели -->
+    <string name="w">Описание</string>
+</resources>
