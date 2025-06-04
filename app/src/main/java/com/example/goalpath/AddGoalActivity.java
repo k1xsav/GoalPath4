@@ -29,7 +29,7 @@ public class AddGoalActivity extends AppCompatActivity {
             resultIntent.putExtra("goalTitle", title);
             resultIntent.putExtra("goalDescription", description);
             setResult(RESULT_OK, resultIntent);
-            finish(); // Закрывает текущую активность и возвращает результат
+            finish();
         });
     }
 }
